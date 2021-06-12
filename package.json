@@ -1,0 +1,25 @@
+{
+  "name": "data-structures-in-javascript",
+  "version": "1.0.0",
+  "description": "data structures in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msorce/data-structures-in-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msorce/data-structures-in-javascript/issues"
+  },
+  "homepage": "https://github.com/msorce/data-structures-in-javascript#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.23"
+  }
+}
