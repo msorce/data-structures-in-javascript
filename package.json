@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/msorce/data-structures-in-javascript#readme",
   "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.14.5",
     "jest": "^27.0.4"
   },
   "dependencies": {
